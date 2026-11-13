@@ -1,0 +1,6 @@
+{
+  "name": "해정철학원 작명연구원",
+  "description": "전통 명리학의 지혜로 소중한 이름과 인생의 방향을 함께합니다. 아기 이름, 개명, 상호·회사명 작명 및 사주·궁합·택일 상담 안내.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
